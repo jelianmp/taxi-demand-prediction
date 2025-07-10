@@ -46,7 +46,6 @@ Se logró un RMSE por debajo del umbral establecido, cumpliendo con los requerim
 
 ✍️ Autor
 Jorge Elian Mendoza Pujol
-📧 jelianmpujol@gmail.com
 
 🔗 [LinkedIn](www.linkedin.com/in/jorge-elian-mendoza-pujol-359500283)  
 
